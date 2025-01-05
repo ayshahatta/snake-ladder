@@ -1,11 +1,12 @@
 [
 {
-    "question" : "What is operating system?",
-    "a": "Collection of programs that manages hardware resources",
-    "b": "Link to interface the hardware and application program",
-    "c": "System service provider to the application program",
-    "d": "All of the mentioned",
-    "answer": "d"
+    "question" : "In facilitating the hardship, what elements are given by the Islamic framework to guide the Muslims?",
+    "a": "Qawaid fiqhiyyah (Legal Maxim)",
+    "b": "Pillar of Islam",
+    "c": "ḍarūriyyah al-Khaimah (five necessities)
+",
+    "d": "Pillar of Faith",
+    "answer": "c"
 },
 {
     "question" : "To access the services of operating system, the interface is provided by the:",
